@@ -1,0 +1,36 @@
+{
+  "rewrites": [
+    {
+      "source": "/cuidador-por-hora-santos-sp",
+      "destination": "/cuidador-por-hora-santos-sp.html"
+    },
+    {
+      "source": "/cuidador-por-hora-praia-grande-sp",
+      "destination": "/cuidador-por-hora-praia-grande-sp.html"
+    },
+    {
+      "source": "/cuidador-por-hora-sao-vicente-sp",
+      "destination": "/cuidador-por-hora-sao-vicente-sp.html"
+    },
+    {
+      "source": "/cuidador-por-hora-guaruja-sp",
+      "destination": "/cuidador-por-hora-guaruja-sp.html"
+    },
+    {
+      "source": "/assets/styles.css",
+      "destination": "/assets/styles.css"
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/sitemap.xml"
+    },
+    {
+      "source": "/robots.txt",
+      "destination": "/robots.txt"
+    },
+    {
+      "source": "/",
+      "destination": "/index.html"
+    }
+  ]
+}
